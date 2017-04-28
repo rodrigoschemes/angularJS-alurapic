@@ -1,0 +1,11 @@
+Instalar
+- node
+- express
+- neDB
+
+npm install
+
+
+Iniciar o projeto
+- cd documents/programacao/angular-1x/alurapic
+- npm start
